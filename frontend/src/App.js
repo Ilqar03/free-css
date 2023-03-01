@@ -1,7 +1,7 @@
 
 import './App.css';
 import Footer from './LayOut/Footer/Footer';
-
+   
 function App() {
   return (
     <div className="App">
